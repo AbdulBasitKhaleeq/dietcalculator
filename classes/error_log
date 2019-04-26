@@ -1,0 +1,96 @@
+[13-Apr-2019 05:45:01 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 05:45:01 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 05:53:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 05:53:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:20:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:20:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 06:22:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 06:22:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:22:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 06:22:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:24:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 06:24:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:24:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 06:24:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:24:25 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:24:25 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 06:24:34 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 06:24:34 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:24:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:24:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 06:52:52 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 06:52:52 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
+[13-Apr-2019 20:40:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/exOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/exOptions.php on line 5
+[13-Apr-2019 20:40:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ohsclntg/public_html/calculator/classes/foodsOptions.php on line 5
